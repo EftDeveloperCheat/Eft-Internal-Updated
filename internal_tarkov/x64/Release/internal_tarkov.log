@@ -1,0 +1,9 @@
+﻿cl : командная строка  warning D9025: переопределение "/sdl" на "/GS-"
+  dll_main.cpp
+C:\Users\wenateq\Desktop\eft-main\internal_tarkov\c_transform.hpp(68,1): warning C4556: значение встроенного аргумента интерпретации "-114" лежит вне диапазона "0 - 255"
+C:\Users\wenateq\Desktop\eft-main\internal_tarkov\c_transform.hpp(69,1): warning C4556: значение встроенного аргумента интерпретации "-37" лежит вне диапазона "0 - 255"
+C:\Users\wenateq\Desktop\eft-main\internal_tarkov\c_transform.hpp(70,1): warning C4556: значение встроенного аргумента интерпретации "-86" лежит вне диапазона "0 - 255"
+C:\Users\wenateq\Desktop\eft-main\internal_tarkov\c_transform.hpp(80,1): warning C4556: значение встроенного аргумента интерпретации "-86" лежит вне диапазона "0 - 255"
+C:\Users\wenateq\Desktop\eft-main\internal_tarkov\engine_render.hpp(105,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\wenateq\Desktop\eft-main\internal_tarkov\engine_render.hpp(106,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  internal_tarkov.vcxproj -> C:\Users\wenateq\Desktop\eft-main\x64\Release\internal_tarkov.dll
